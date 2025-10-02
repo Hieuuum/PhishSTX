@@ -1,2 +1,2 @@
 # PhishSTX
-PhishSTX: Phish Stop The eXploits.
+Phishing Dection Model.
